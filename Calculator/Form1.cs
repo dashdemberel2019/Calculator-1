@@ -33,6 +33,7 @@ namespace Calculator
         private void button1_Click_1(object sender, EventArgs e)
         {
             Number_Click(btn1, e);
+            // Энэ функцийн бие нь хаана байна
         }
         private void button2_Click(object sender, EventArgs e)
         {
